@@ -21,7 +21,7 @@ const allowedOrigins = [
     'http://localhost:5173', 
     'http://127.0.0.1:3000',
     'http://127.0.0.1:5173',
-    'https://brave-desert-01acf810f.5.azurestaticapps.net'
+    'https://lemon-coast-0d767b50f.5.azurestaticapps.net'
 ];;
 app.use(cors({
   origin: function(origin, callback) {
